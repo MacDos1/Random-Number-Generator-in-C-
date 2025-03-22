@@ -1,1 +1,1 @@
-A Random Number Generator Class for C++
+A Random Number Generator Class for C++.
